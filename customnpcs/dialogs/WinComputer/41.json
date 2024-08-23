@@ -72,9 +72,18 @@
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
     DialogText: "Certainly.
-The plains location will replace anything between XXX, XXX and XXX,XXX.
-The desert location replaces thingsbetween XXX, XXX to XXX, XXX.
-The bay location is XXX, XXX to XXX,XXX, but will float XX yards above the surface of the water.",
+
+The plains location will replace 
+anything between 829, 802 and 900,
+873.
+
+The desert location replaces things
+between 1295, 1524 to 1366, 1595.
+
+The bay location is 564, 1181 to 635,
+1252, but will float 27 yards above 
+the surface of the water.
+",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: -1,
