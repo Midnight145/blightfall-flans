@@ -247,7 +247,7 @@
         pSpin: 1b,
         NpcHurtSound: "minecraft:game.player.hurt",
         pTrail: 3,
-        CreatureType: 0,
+        CreatureType: 1,
         TransformHasDisplay: 0b,
         NoFallDamage: 0b,
         TransformHasRole: 0b,
